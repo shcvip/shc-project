@@ -1,6 +1,6 @@
 # python 核心编程
 
-## 安装python
+## 安装python 修改内容
 
 linux环境中
 
